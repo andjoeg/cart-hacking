@@ -27,11 +27,12 @@ body {
 /* padding right */
 .pr {
     padding-right: 30px;
+    padding-bottom: 30px;
 }
 
 .tab,
 .tabs > input:checked + label {
-    background-color: #c2e9fb;
+    background-color: #ededed;
     border: none !important;
 }
 
